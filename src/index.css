@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@400;600;800&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Outfit", sans-serif;
+  --color-roblox-dark: #191b1d;
+  --color-roblox-darker: #111214;
+  --color-roblox-blue: #00a2ff;
+  --color-roblox-blue-hover: #0084d1;
+  --color-roblox-grey: #393b3d;
+}
+
+@layer base {
+  body {
+    @apply bg-[var(--color-roblox-darker)] text-white font-sans;
+  }
+}
+
+.roblox-card {
+  @apply bg-[var(--color-roblox-dark)] border border-[var(--color-roblox-grey)] rounded-lg transition-all duration-200;
+}
+
+.roblox-card:hover {
+  @apply border-white/40 shadow-lg;
+}
+
+.roblox-button {
+  @apply bg-[var(--color-roblox-blue)] hover:bg-[var(--color-roblox-blue-hover)] text-white font-bold py-2 px-4 rounded transition-colors;
+}
+
+.roblox-nav {
+  @apply bg-[var(--color-roblox-dark)] border-b border-[var(--color-roblox-grey)];
+}

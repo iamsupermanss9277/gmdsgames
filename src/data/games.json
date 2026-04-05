@@ -1,0 +1,44 @@
+[
+  {
+    "id": "slope",
+    "title": "Slope",
+    "description": "Speed down a neon slope, avoiding obstacles and staying on the track.",
+    "iframeUrl": "https://kdata1.com/2020/05/slope/",
+    "thumbnail": "https://i.ibb.co/wFYy5SqM/slope.png"
+  },
+  {
+    "id": "retro-bowl",
+    "title": "Retro Bowl",
+    "description": "The perfect game for the armchair quarterback to finally prove a point.",
+    "iframeUrl": "https://game316009.konggames.com/gamez/0031/6009/live/index.html",
+    "thumbnail": "https://i.ibb.co/8gny5Vn6/retro.avif"
+  },
+  {
+    "id": "geometry-dash",
+    "title": "Geometry Dash",
+    "description": "Jump and fly your way through danger in this rhythm-based action platformer!",
+    "iframeUrl": "https://unblocked-games.s3.amazonaws.com/games/2023/q2/geometry-dash-freezenova/index.html",
+    "thumbnail": "https://i.ibb.co/8D8pD8dw/geometry-dash.jpg"
+  },
+  {
+    "id": "minecraft-platformer",
+    "title": "Minecraft Platformer",
+    "description": "A popular Minecraft-themed platformer.",
+    "iframeUrl": "https://scratch.mit.edu/projects/392737859/embed",
+    "thumbnail": "https://i.ibb.co/4n7tzvkk/mcplat.jpg"
+  },
+  {
+    "id": "deadly-descent",
+    "title": "Deadly Descent",
+    "description": "A thrilling descent game.",
+    "iframeUrl": "https://classroomlesson.github.io/basic-ruffle-player/html/deadly_descent/index.html",
+    "thumbnail": "https://i.ibb.co/TxngtS7v/deadly.jpg"
+  },
+  {
+    "id": "square-jump",
+    "title": "Square Jump (Alpha)",
+    "description": "A custom-built rhythm platformer demo. No iframes, just pure React logic!",
+    "isCustom": true,
+    "thumbnail": "https://i.ibb.co/MyPk1V6j/Gemini-Generated-Image-3pxylx3pxylx3pxy.png"
+  }
+]
